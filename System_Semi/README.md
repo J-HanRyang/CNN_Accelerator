@@ -19,4 +19,4 @@ Functional correctness was verified through a testbench simulation in Ncverilog,
 <br>
 
 #### *Referenced Document*
-[Docs]()
+[Docs](https://github.com/J-HanRyang/CNN_Accelerator/tree/main/System_Semi/Docs)
