@@ -21,3 +21,8 @@ It serves as the "golden model" that defines the exact behavior of the hardware.
 ## **📜 Results :**
 A clear and scalable hierarchical architecture for a CNN convolution core was successfully designed in Verilog. <br>
 A standard hardware/software co-design methodology was established by creating a C-language reference model to generate test vectors and verify the RTL's functional correctness, providing a solid foundation for building a complete and verified accelerator.
+
+<br>
+
+본 프로젝트는 인프런의 '설계독학맛비's 실전 AI HW 설계를 위한 바이블 강의를 수강하며 학습한 내용을 기반으로 합니다. <br>
+본 자료는 포트폴리오 목적으로 공개하며, 과제 표절 등 비윤리적 목적으로 사용될 수 없습니다.
